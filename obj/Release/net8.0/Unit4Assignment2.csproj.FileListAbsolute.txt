@@ -1,0 +1,14 @@
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\bin\Release\net8.0\Unit4Assignment2.exe
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\bin\Release\net8.0\Unit4Assignment2.deps.json
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\bin\Release\net8.0\Unit4Assignment2.runtimeconfig.json
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\bin\Release\net8.0\Unit4Assignment2.dll
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\bin\Release\net8.0\Unit4Assignment2.pdb
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\obj\Release\net8.0\Unit4Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\obj\Release\net8.0\Unit4Assignment2.AssemblyInfoInputs.cache
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\obj\Release\net8.0\Unit4Assignment2.AssemblyInfo.cs
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\obj\Release\net8.0\Unit4Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\obj\Release\net8.0\Unit4Assignment2.dll
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\obj\Release\net8.0\refint\Unit4Assignment2.dll
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\obj\Release\net8.0\Unit4Assignment2.pdb
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\obj\Release\net8.0\Unit4Assignment2.genruntimeconfig.cache
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\obj\Release\net8.0\ref\Unit4Assignment2.dll

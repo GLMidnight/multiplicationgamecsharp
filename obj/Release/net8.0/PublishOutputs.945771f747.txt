@@ -1,0 +1,5 @@
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\bin\Release\net8.0\publish\Unit4Assignment2.exe
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\bin\Release\net8.0\publish\Unit4Assignment2.dll
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\bin\Release\net8.0\publish\Unit4Assignment2.deps.json
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\bin\Release\net8.0\publish\Unit4Assignment2.runtimeconfig.json
+C:\Users\Joshua\source\repos\Unit4Assignment2\Unit4Assignment2\bin\Release\net8.0\publish\Unit4Assignment2.pdb
